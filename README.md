@@ -3,10 +3,10 @@ I'm Alexander (also known as AlexWillCode) and I love programming. I have been p
 
 - 💭 I'm currently learning rust.
 - 📫 You can reach me via the following:
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/discord.ico"></a>[`@AlexWillCode#4701`](https://discord.bio/p/alexwillcode)
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/twitter.ico"></a>[`@AlexWillCode`](https://twitter.com/alexwillcode)
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/gmail.ico"></a>[`alexwillcode@gmail.com`](mailto:alexwillcode@gmail.com)
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/github.ico"></a>[`AlexWillCode`](https://github.com/alexwillcode)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/discord.ico"></a> [`@AlexWillCode#4701`](https://discord.bio/p/alexwillcode)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/twitter.ico"></a> [`@AlexWillCode`](https://twitter.com/alexwillcode)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/gmail.ico"></a> [`alexwillcode@gmail.com`](mailto:alexwillcode@gmail.com)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/github.ico"></a> [`AlexWillCode`](https://github.com/alexwillcode)
 - 🎧 I love music.
 - 🖥 I currently use macOS.
 - ✍️ I use Vscode, Pycharm, and IntelliJ IDEA.
