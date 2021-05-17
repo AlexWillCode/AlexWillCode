@@ -1,7 +1,7 @@
 ### Hi there!
 I'm Alexander (also known as AlexWillCode) and I love programming. I have been programing for about 2 years. My technology stack involves Python, Typescript (roblox-ts) and Luau.
 
-- 💭 I'm currently learning rust.
+- 💭 I'm currently learning Rust.
 - 📫 You can reach me via the following:
   - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/discord.ico"></a> [`@AlexWillCode#4701`](https://discord.bio/p/alexwillcode)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/alexwillcode/alexwillcode/blob/main/assets/twitter.ico"></a> [`@AlexWillCode`](https://twitter.com/alexwillcode)
