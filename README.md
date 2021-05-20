@@ -11,4 +11,4 @@ I'm Alexander and I love programming. I have been programing for about 2 years.
 - 🖥 I use macOS.
 - ✍️ VSCode, PyCharm, and IntelliJ IDEA are my most used code editors.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwillcode&count_private=true&show_icons=true&theme=calm&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwillcode&count_private=true&show_icons=true&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
